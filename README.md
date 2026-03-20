@@ -1,2 +1,2 @@
 # MTH6139
-Liverpool FC analysis time series report:
+Liverpool FC analysis time series report: https://abdurraheemmalik.github.io/MTH6139/
